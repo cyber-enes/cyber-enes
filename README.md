@@ -12,7 +12,7 @@ I apply the high-stakes discipline of aviation to digital defense and offensive 
 - 🌐 **Network Security:** Actively studying network protocols and vulnerabilities (CCNA level) to understand the playground of a Red Teamer.
 - 🧪 **Continuous Learning:** Transitioning my "zero-error" aviation mindset into exploit research and ethical hacking.
 
-### 🚀 Why Me?
+###  Why Me?
 Coming from an aviation background, I bring a **"zero-failure"** mindset to security. I don't just look at the code; I analyze the entire system's reliability, whether it's an aircraft engine or a corporate network.
 
 ### 🛠️ Tech Stack & Tools:
